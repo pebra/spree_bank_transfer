@@ -1,0 +1,24 @@
+de:
+  spree:
+    account_no: Kontonummer
+    add_details: Eigenschaften hinzufügen
+    additional_details: weitere Eigenschaften
+    back_to_banks_list: zurück zur Übersicht
+    banks: Banken
+    bank_name: Bankname
+    confirm_details_submit: Are you sure you want to Submit these details? You will not be able to Edit these details once Submitted. Press 'OK' to confirm.
+    deactivate: Deaktivieren
+    deposited_on: Eingezahlt am
+    how_bank_transfer_works: How Bank Transfer works?
+    listing_banks: Banken anzeigen
+    new_bank: Neue Bank
+    only_show_orders_with_bank_transfer_payment_reference_number: Only show orders with bank transfer payment reference number
+    payment_not_found: Zahlung nicht gefunden
+    payment_successfully_updated: Payment successfully updated
+    payment_reference_details: Bank Transfer Payment Reference Details
+    transaction_reference_no: Transaction Reference No
+  activerecord:
+    models:
+      spree/bank:
+        one: Bank
+        other: Banken
